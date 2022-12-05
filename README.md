@@ -18,7 +18,7 @@ Lênh để khởi tạo Gitrepo là: git init
 
 Dung hai lệnh để commit thay đổi lên Gitrepo:
 
-**
+***
 git add .
 
 git commit -m "Thông điệp commit"
